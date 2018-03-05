@@ -43,6 +43,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Connecting the API
+
 ## License
 
     Copyright [2018] [Cynthia Martinez of copyright owner]
